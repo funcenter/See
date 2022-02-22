@@ -2,10 +2,6 @@
 
 该项目仅用于学习Android开发、测试等，下载体验后请及时删除，正常使用请下载官方App。
 
-下载测试体验链接
-
-[https://github.com/funcenter/See/releases](https://github.com/funcenter/See/releases)
-
 Telegram: [@appcentersee](https://t.me/appcentersee)
 
 ### Libs
