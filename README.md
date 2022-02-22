@@ -1,5 +1,9 @@
 # See
 
+下载测试体验链接
+
+[https://github.com/funcenter/See/releases](https://github.com/funcenter/See/releases)
+
 ### Libs
 [butterknife](https://github.com/JakeWharton/butterknife) 
 
