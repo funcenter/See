@@ -4,6 +4,8 @@
 
 [https://github.com/funcenter/See/releases](https://github.com/funcenter/See/releases)
 
+Telegram: [@appcentersee](https://t.me/appcentersee)
+
 ### Libs
 [butterknife](https://github.com/JakeWharton/butterknife) 
 
