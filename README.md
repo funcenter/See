@@ -20,7 +20,7 @@ Telegram: [@appcentersee](https://t.me/appcentersee)
 [ijk](https://github.com/Bilibili/ijkplayer)
 
 ### Contact
-[appcenter.see@gmail.com](appcenter.see@gmail.com)
+[appcenter.see@gmail.com](mailto:appcenter.see@gmail.com)
 
 **本项目中部分数据来自抓包。如有侵权，告知后会立即删除。**
 
