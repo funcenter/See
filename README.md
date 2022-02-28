@@ -2,8 +2,6 @@
 
 该项目仅用于学习Android开发、测试等，下载体验后请及时删除，正常使用请下载官方App。
 
-Telegram: [@appcentersee](https://t.me/appcentersee)
-
 ### Libs
 [butterknife](https://github.com/JakeWharton/butterknife) 
 
